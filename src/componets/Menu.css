@@ -1,0 +1,90 @@
+*{
+margin: 5px;
+padding: 2px;
+font-family: 'Signika Negative', sans-serif;
+
+
+
+
+}
+body{
+    background-color: #F0EBD6;
+}
+
+.logomenu{
+  margin: 0px;
+  padding: 0px 15px 0px 4px;
+  height: 80px;
+}
+
+.wrapper{
+    width: 90%;
+    margin: -56px auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, auto); 
+}
+
+.wrapper > div,
+.wrapper .central,
+.wrapper .options,
+.wrapper .sidebar {
+    background: white;
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.wrapper .navbar{
+    grid-column-start: 1;
+    grid-column-end: 5;
+    font-size: 35px;
+    margin:5px 0px -7px 0px;
+
+}
+
+.wrapper .central{
+    grid-column: span 2;
+    height: 600px;
+    text-align: center;
+    font-size: 23px;
+}
+
+.wrapper .sidebar{
+background: white;
+color: black;
+grid-column: 4/5;
+grid-row: auto;
+text-align: center;
+font-size: 20px;
+}
+
+.wrapper .options{
+    background: white;
+    color: black;
+}
+
+
+
+.return,
+.add,
+.orders,
+.promo,
+.check{
+    height: 100px;
+    width: 177px;
+    background-color: #FEDE58;
+    border-radius: 25px;
+    border-color: #FEDE58;
+    color: #333232;
+    font-size: 24px;
+}
+
+.wrapper .sidebar .check{
+position: absolute;
+right: 8%;
+top: 77%;
+}
+
+
