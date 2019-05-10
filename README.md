@@ -1,3 +1,6 @@
+![BurguerQueen](./src/imgReadMe/quentin-lagache-76503-unsplash.jpg)
+
+
 # Cliente
 
 > Somos **Burguer Queen**, una cadena de comida 24hrs.
