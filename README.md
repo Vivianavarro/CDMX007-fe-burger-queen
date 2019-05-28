@@ -1,3 +1,14 @@
+**Comanda Burger Queen** es una Web App creada para facilitar la gestión de pedidos entre meseros y cocina, a través de ella se puede levantar la orden de cada cliente y enviarla a cocina.
+
+Su interfaz está diseñada para acortar los tiempos de orden, mantener un inventario de cada producto pedido, así como los totales de la cuenta.
+
+Instrucciones de uso:
+
+- Ingresar al siguiente link https://bqcomanda-39f10.firebaseapp.com/ 
+- Colocar el nombre del mesero 
+- En el menú central, elegir los alimentos y bebidas a ordenar
+- Una vez terminada la ordern, presionar Enviar para mandarlo a cocina 
+
 # Cliente
 
 > Somos **Burguer Queen**, una cadena de comida 24hrs.
