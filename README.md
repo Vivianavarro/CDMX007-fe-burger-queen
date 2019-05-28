@@ -1,6 +1,3 @@
-[BurguerQueen](./src/imgReadMe/quentin-lagache-76503-unsplash.jpg)
-
-
 # Cliente
 
 > Somos **Burguer Queen**, una cadena de comida 24hrs.
@@ -57,16 +54,6 @@ rápidamente a los clientes que las hicieron.
 - Investigación de las necesidades del cliente
 - Diagrama de Flujo del producto
 - Prototipo de alta
-
-![Investigación](./src/imgReadMe/screen15README.png)
-
-![Investigación2](./src/imgReadMe/screen14README.png)
-
-![Investigación3](./src/imgReadMe/screen13README.png)
-
-![Investigación4](./src/imgReadMe/screen12README.png)
-
-![Investigación5](./src/imgReadMe/screen1README.png)
 
 
 ## Proyecto / Web App Burger Queen Comandera
